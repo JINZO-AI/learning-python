@@ -28,18 +28,10 @@
 
 ---
 
-## 📓 Daily Practice Log
-
-### Week 1: The Foundation
-* **Day 1 (Jan 29):** Created this repository and set up my learning environment.
-* **Notes:** Fixed my LinkedIn profile and repository naming! Ready to start the first 3 chapters tomorrow.
-
----
-
 ## 📂 Featured Projects
 *Eventually, these will link to separate repositories!*
 * 🎮 **Rock, Paper, Scissors:** (Coming Soon)
 * 🌦️ **Weather App:** (Coming Soon)
 
 ---
-*Last Updated: 2026-01-29*
+
