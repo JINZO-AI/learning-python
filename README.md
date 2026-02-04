@@ -17,15 +17,14 @@
 ## 🚀 Course Progress Tracker
 *Based on the Dave Gray curriculum:*
 
-- [ ] **Ch 1-3:** Intro, VS Code Setup, & REPL 🛠️
-- [ ] **Ch 4-5:** Variables, Data Types, & Numbers 🔢
-- [ ] **Ch 6-7:** User Input & Control Flow (If/Else) 🔄
-- [ ] **Ch 8-10:** Lists, Tuples, & Dictionaries 📚
-- [ ] **Ch 11-13:** Functions, Recursion, & Scope 🧠
-- [ ] **Ch 14-16:** Modules, Command Line, & Virtual Environments 💻
-- [ ] **Ch 17-20:** Classes, Objects, & OOP 🏗️
-- [ ] **Ch 21-23:** PIP, APIs, & Web App Deployment 🌐
-
+- [ ] **Ch 1-3:** Python Basics, & Operators 🛠️
+- [ ] **Ch 4-5:** Data Types & User Input 🔢
+- [ ] **Ch 6-8:** Lists, Tuples, Dicts, & Loops 🔄
+- [ ] **Ch 9-11:** Functions, Recursion, & Scope 🧠
+- [ ] **Ch 12-14:** Closures, f-Strings, & Modules 📦
+- [ ] **Ch 15-17:** CLI Args, Challenges, & Lambda ⚡
+- [ ] **Ch 18-20:** Classes, Exceptions, & OOP Project 🏗️
+- [ ] **Ch 21-23:** Venv/PIP, File Ops, & Flask Web App 🌐
 ---
 
 ## 📂 Featured Projects
