@@ -25,6 +25,6 @@ def get_current_weather():
         f'\n{weather_data["weather"][0]["description"].capitalize()} and feels like {weather_data["main"]["feels_like"]:.1f}°\n'
     )
 
-
+#
 if __name__ == "__main__":
     get_current_weather()
