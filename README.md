@@ -30,7 +30,7 @@
 ## 📂 Featured Projects
 *Eventually, these will link to separate repositories!*
 * 🎮 **Rock, Paper, Scissors:** (Coming Soon)
-* 🌦️ **Weather App:** (Coming Soon)
+* 🌦️ **Weather App:** [Lesson23 - Flask Weather App](./Lesson23) - A Flask web app that fetches real-time weather data from OpenWeatherMap API
 
 ---
 
